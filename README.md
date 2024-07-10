@@ -23,15 +23,6 @@ Currently, two official plugins are available:
 3. npm start
 
 
-
-### 5. Usage
-Explain how to use the project, including examples and screenshots if necessary.
-
-```markdow## Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
 ## Usage
 To use the project, follow these steps:
 1. Open the app
